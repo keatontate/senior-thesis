@@ -1,4 +1,4 @@
-# SIMULATING SOLID PHASE CHANGES IN DENSE LITHIUM 
+# Simulating solid phase changes in dense lithium 
 ### A senior thesis submitted to the faculty of Brigham Young University - Idaho in partial fulfillment of the requirements for the degree of Bachelor of Science
 
 Abstract:
